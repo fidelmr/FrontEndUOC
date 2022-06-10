@@ -1,0 +1,4 @@
+.mainContainer>nav li{
+    /* posem els elements en linia */
+    display: inline-block;  
+}
