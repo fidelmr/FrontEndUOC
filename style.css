@@ -1,6 +1,26 @@
-.titol {
-    font-size: 2rem;
-    color: rgb(0, 0, 0);
-  }
-  /* Todos los enlaces en los que la URL contiene "test" con el fondo gris */
-a[href *="test"] {background-color: #CCCCCC;}
+css
+/*#menu_transversal {
+  max-width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+body {
+  color: rgb(16, 16, 152);
+}
+
+h1 {
+  color: rgb(52, 23, 92);
+}
+
+h2 {
+  color: rgb(82, 8, 85);
+}*/
+
+
+.textoh {
+  font-size: 3rem;
+  color: rgb(161, 36, 67);
+}
+
+
+/*<h1 class="textoh">Contacto</h1>*/
