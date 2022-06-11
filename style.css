@@ -2,4 +2,5 @@
     font-size: 2rem;
     color: rgb(0, 0, 0);
   }
-  
+  /* Todos los enlaces en los que la URL contiene "test" con el fondo gris */
+a[href *="test"] {background-color: #CCCCCC;}
